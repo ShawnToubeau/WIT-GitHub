@@ -1,0 +1,7 @@
+For homeowrk 2 you will become familar with using Github through the command line. 
+For this you will need to make a [Cloud9 account](https://c9.io/)
+After making a account you will create a new workspace by clicking the "+" button.
+Give the workspace a name, description, and select node.js. Then click "Create Workspace".
+It the terminal window, type "npm install -g git-it".
+After the installation, run the tuitorial by typing in "git-it".
+These modules will help you become comfortable using Git through the command line.
